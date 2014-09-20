@@ -1,0 +1,31 @@
+CODE BOOK
+==============
+based on features_info.txt
+
+The measures were taken from accelerometes (Acc) and gyroscopes(Gyro), and derivate to obtain the Jerk signals
+
+The appended strings filtered to the tidyData are:
+mean(): Mean value
+std(): Standard deviation
+
+variables with a "t" in the beggining are time domain values and "f" frequency domain.
+
+XYZ -> X, Y and Z axis. 3 Measures for each characteristic liste below:
+ 
+tBodyAcc-XYZ 
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
